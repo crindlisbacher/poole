@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: "Christof Rindlisbacher | Research, Journalism, and Data Analytics"
 ---
+
+# Hi, it's Christof Rindlisbacher
 
 I've worked for VCs, startups, the government, and would love to work for you. I can be reached by email(crindlisbacher [at] brandeis [dot] com), and samples of my work can be found below.
 
