@@ -19,4 +19,4 @@ I'm a journalist, researcher, and data analyst who serves a diverse range of org
 
 + [Spatial Equity and Fare Integration](https://crindlisbacher.github.io/2019/08/11/spatial-fare-equity.html): an analysis of the concept of spatial equality with regards to commuter rail fare systems.
 
-Available for freelance and full time work. 
+Bylines: Daily Beast, American Prospect, Class Central. Available for freelance and full time work. 
