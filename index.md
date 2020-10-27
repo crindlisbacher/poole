@@ -13,9 +13,9 @@ I'm a journalist, researcher, and data analyst who serves a diverse range of org
 
 + [GOP Lawmaker Leads Fight To Get His Industry A Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his). It turned out the congressman pushing to bail out commercial real estate also owns a lot of commercial real estate.
 
-+ [The Bagholder Report](https://bagholderreport.substack.com/): a finance newsletter. 
++ [Who's Left Holding the Whole Business Securitization Bag?](https://bagholderreport.substack.com/p/whos-left-holding-the-whole-business). An in depth look at Harley Marine's ill fated whole business securitization deal.
 
-Bylines: The Daily Beast, the American Prospect, Jacobin, The Daily Poster, Class Central. [Full list of articles available on Muck Rack](https://muckrack.com/christof-rindlisbacher).
+Bylines: The Daily Beast, The American Prospect, Jacobin, The Daily Poster, Class Central. [Full list of articles available on Muck Rack](https://muckrack.com/christof-rindlisbacher).
 
 ## Christof the Researcher
 
