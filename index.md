@@ -11,9 +11,9 @@ I'm a journalist, researcher, and data analyst who serves a diverse range of org
 
 + [Priyanka Chopra’s Favorite Coding Bootcamp Accused of ‘Fraud’](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud): investigative journalism for The Daily Beast. I broke the news that Holberton School, a predatory for-profit college, had been ordered to shut down by the state of California. 
 
-+ [GOP Lawmaker Leads Fight To Get His Industry A Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his). It turned out the congressman pushing to bail out commercial real estate also owns a lot of commercial real estate.
++ [GOP Lawmaker Leads Fight To Get His Industry A Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his): it turned out the congressman pushing to bail out commercial real estate also owns a lot of commercial real estate.
 
-+ [Who's Left Holding the Whole Business Securitization Bag?](https://bagholderreport.substack.com/p/whos-left-holding-the-whole-business). An in depth look at Harley Marine's ill fated whole business securitization deal.
++ [Who's Left Holding the Whole Business Securitization Bag?](https://bagholderreport.substack.com/p/whos-left-holding-the-whole-business): an in depth look at Harley Marine's ill fated whole business securitization deal.
 
 Bylines: The Daily Beast, The American Prospect, Jacobin, The Daily Poster, Class Central. [Full list of articles available on Muck Rack](https://muckrack.com/christof-rindlisbacher).
 
