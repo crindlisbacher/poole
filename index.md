@@ -26,5 +26,3 @@ Hi! I'm a reporter and occasional researcher who writes about finance, labor, an
 As seen in: Daily Beast, Class Central, American Prospect, OneZero, Jacobin, Daily Poster.
 
 I also occasionally blog about finance at The Bagholder Report. Check out my [article on Harley Marine](https://bagholderreport.substack.com/p/whos-left-holding-the-whole-business): it’s a fun read and explains some of the basics of how securitization works. 
-
-If you're an editor and you're reading this: please reach out if you an article you would like to commission me for. 
