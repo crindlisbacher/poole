@@ -16,11 +16,15 @@ Hi! I'm a reporter and occasional researcher who writes about finance, labor, an
 
 ## My Reporting: The Highlights
 
+(Not a comprehensive list).
+
 * OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
 * Daily Poster: [Congressman's Companies Evicting Renters During Pandemic](https://www.dailyposter.com/p/landlord-congressmans-companies-evicting)
 * Daily Poster/American Prospect: [GOP Lawmaker Leads Fight to Get His Industry a Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his)
 * American Prospect: [Student Loan Giant Navient Reaps Backdoor Federal Reserve Subsidy](https://prospect.org/economy/student-loan-giant-navient-reaps-backdoor-federal-reserve-subsidy/)
 
-As seen in: Daily Beast, Class Central, American Prospect, OneZero, Jacobin, Daily Poster
+As seen in: Daily Beast, Class Central, American Prospect, OneZero, Jacobin, Daily Poster.
 
 I also occasionally blog about finance at The Bagholder Report. Check out my [article on Harley Marine](https://bagholderreport.substack.com/p/whos-left-holding-the-whole-business): it’s a fun read and explains some of the basics of how securitization works. 
+
+If you're an editor and you're reading this: please reach out if you an article you would like to commission me for. 
