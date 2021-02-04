@@ -30,7 +30,7 @@ I also occasionally blog about finance at The Bagholder Report. Check out my [ar
 
 ## My Reporting: A Semi-Comprehensive List
 
-Did my best to list my articles in reverse chronilogical order. 
+Did my best to list my articles in reverse chronological order. Quite a bit missing here; check back in March.
 
 * Daily Poster: [Congressman's Companies Evicting Renters During Pandemic](https://www.dailyposter.com/p/landlord-congressmans-companies-evicting)
 * OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
