@@ -7,6 +7,8 @@ title: "Emma Rindlisbacher | Freelance Journalist"
 
 Hi! I'm a reporter and occasional researcher who writes about finance, labor, and education. My reporting has exposed congressional conflicts of interest and gotten students out of predatory debt. I love stories that have interesting legal or financial documents, as well as stories that involve public records. Please reach out if there's something I should be writing about: I protect the anonymity of my sources.
 
+I also conduct research for various organizations, such as tech companies, investors, and think tanks. Don't hesitate to reach out if you want to work with me. 
+
 ## Contact Me
 
 * Twitter: [@brokenimageheap](https://twitter.com/brokenimageheap)
