@@ -20,11 +20,13 @@ I also conduct research for various organizations, such as tech companies, inves
 
 (Not a comprehensive list).
 
+* Daily Poster: [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)
 * Daily Poster: [Boot Camps For Crushing Democracy](https://www.dailyposter.com/p/boot-camps-for-crushing-democracy)
 * OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
 * Daily Poster: [Congressman's Companies Evicting Renters During Pandemic](https://www.dailyposter.com/p/landlord-congressmans-companies-evicting)
 * Daily Poster/American Prospect: [GOP Lawmaker Leads Fight to Get His Industry a Government Bailout](https://www.dailyposter.com/p/gop-lawmaker-leads-fight-to-get-his)
 * American Prospect: [Student Loan Giant Navient Reaps Backdoor Federal Reserve Subsidy](https://prospect.org/economy/student-loan-giant-navient-reaps-backdoor-federal-reserve-subsidy/)
+* Class Central: [Surging Interest in Online Education](https://www.classcentral.com/report/surging-interest-in-online-education/)
 * Daily Beast: [Priyanka Chopra’s Favorite Coding Bootcamp Accused of 'Fraud'](https://www.thedailybeast.com/priyanka-chopras-favorite-coding-bootcamp-holberton-accused-of-fraud)
 
 Check out [my muckrack profile](https://muckrack.com/emma-rindlisbacher) for a full list of articles.
