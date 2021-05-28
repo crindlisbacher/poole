@@ -9,6 +9,8 @@ Hi! I'm a reporter and occasional researcher who writes about finance, labor, an
 
 I also conduct research for various organizations, such as tech companies, investors, and think tanks. Don't hesitate to reach out if you want to work with me. 
 
+If you work in PR and want to send me pitches or press releases I do actually read them and find them helpful. That said, I can only write about things that are genuinely unique or innovative; if you're just trying to promote good work that you're doing I can't really cover that. I'm much more likely to cover something if I can get my hands on numbers or information that isn't public. 
+
 ## Contact Me
 
 * Twitter: [@brokenimageheap](https://twitter.com/brokenimageheap)
