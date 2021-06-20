@@ -22,6 +22,7 @@ If you work in PR and want to send me pitches or press releases I do actually re
 
 (Not a comprehensive list).
 
+* Class Central: [Lambda School Woes: Lawsuits, Fines, Layoffs, and Media Scrutiny](https://www.classcentral.com/report/lambda-school-woes/)
 * Daily Poster: [Dems Demanding SALT Tax Cuts Stand to Benefit](https://www.dailyposter.com/democrats-gunning-to-end-salt-cap-stand-to-benefit/)
 * Daily Poster: [Boot Camps For Crushing Democracy](https://www.dailyposter.com/p/boot-camps-for-crushing-democracy)
 * OneZero: [Revature Coding Program Promises Jobs—but Costs $36,500 to Quit](https://onezero.medium.com/recent-grads-are-being-lured-into-indentured-servitude-by-a-coding-bootcamp-8a3b2b8e87e8)
